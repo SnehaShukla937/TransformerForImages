@@ -14,3 +14,6 @@ Additional topics:
 1. How linear layer behave, when we have 3-dim or more dim tensors.
 2. Basic Property of Layer Normalization.
 
+
+Inspired from https://www.youtube.com/watch?v=ovB0ddFtzzA
+
